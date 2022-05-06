@@ -1,4 +1,4 @@
-module ksadebiekorf.be/database
+module github.com/KSA-De-Biekorf/Database
 
 go 1.18
 
